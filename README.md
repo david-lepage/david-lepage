@@ -1,5 +1,1 @@
-This is 
-
-a visual test
-
-# readme
+A HTML, CSS and Javascript Newbie!
